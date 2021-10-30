@@ -131,9 +131,9 @@ def game() -> None:
     if monster_counter == 10:
         print("Вы победили 10 чудовищ и спасли королевство. ПОБЕДА!")
     else:
-        print("ПОРАЖЕНИЕ! игра окончена")
+        print("ПОРАЖЕНИЕ! Игра окончена.")
 
 
-# Press the green button in the gutter to run the script.
+# Point to start
 if __name__ == '__main__':
     game()
