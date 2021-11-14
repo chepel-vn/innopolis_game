@@ -133,7 +133,6 @@ def game() -> None:
     else:
         print("ПОРАЖЕНИЕ! Игра окончена.")
 
-
 # Point to start
 if __name__ == '__main__':
     game()
